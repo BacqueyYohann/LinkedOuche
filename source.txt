@@ -3,6 +3,8 @@ https://home.naas.ai/#:~:text=Naas%20is%20developing%20a%20Universal,%2C%20analy
 https://www.youtube.com/watch?v=Hb7912QEeaE
 
 https://ijachipius8.medium.com/automate-linkedin-posts-with-selenium-and-python-f209e276d3c2
+slenium
+
 https://blog.futuresmart.ai/how-to-automate-your-linkedin-posts-using-python-and-the-linkedin-api
 
 https://www.youtube.com/watch?v=L_kDdsnEmF4
@@ -15,8 +17,10 @@ https://www.youtube.com/watch?v=idZsfmZYH40
 https://ifttt.com/
 
 https://pypi.org/project/python3-linkedin/
+limited functionality
 
 https://github.com/linkedin-developers/linkedin-api-python-client
+require an official API access
 
 https://github.com/tomquirk/linkedin-api
 

@@ -1,5 +1,5 @@
 from linkedin_api import Linkedin
-from dotenv import load_dotenv
+from dotenv import load_dotenv # type: ignore
 import os
 
 
